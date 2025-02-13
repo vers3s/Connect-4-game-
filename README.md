@@ -14,7 +14,7 @@ This is a C++ implementation of the classic Connect 4 game. The game can be play
 ## How to Play
 
 1. At the start, the program asks you to select a game mode
-2. Players take turns choosing a column (1-7) to drop their piece ('U' for User or 'C' for Computer).
+2. Players take turns choosing a column (1-7) to drop their piece ('U' for User or 'C' for Computer)
 3. The piece is dropped to the lowest available row in the selected column.
 4. The first player to connect four pieces in a row horizontally, vertically, or diagonally wins the game.
 5. If the board is full and no player has connected four pieces, the game ends in a draw.
