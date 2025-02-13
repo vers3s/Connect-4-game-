@@ -9,7 +9,7 @@ This is a C++ implementation of the classic Connect 4 game. The game can be play
   2. Player vs Computer
 - Easy-to-use console-based interface
 - Board display updates after every move
-- Automatic win and draw detection.
+- Automatic win and draw detection
 
 ## How to Play
 
